@@ -3,7 +3,7 @@ Descripción
 API REST desarrollada con Spring Boot para la gestión de personas y sus relaciones (documento, direcciones, mascota y roles).
 Proyecto realizado como parte de la Evaluación Continua 1 (EC1) del curso Desarrollo de Servicios Web 2 – IDAT.
 
-🧩 Entidades Principales
+Entidades Principales:
 
 Person → Información personal del usuario (tb_persona)
 Documento → DNI / Pasaporte (tb_documento)
